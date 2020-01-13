@@ -1,0 +1,150 @@
+Network 1
+The bandwidth is 6.
+
+Network 2
+The bandwidth is 0.
+
+Network 3
+The bandwidth is 0.
+
+Network 4
+The bandwidth is 14.
+
+Network 5
+The bandwidth is 58.
+
+Network 6
+The bandwidth is 27.
+
+Network 7
+The bandwidth is 7.
+
+Network 8
+The bandwidth is 0.
+
+Network 9
+The bandwidth is 18.
+
+Network 10
+The bandwidth is 32.
+
+Network 11
+The bandwidth is 1.
+
+Network 12
+The bandwidth is 11.
+
+Network 13
+The bandwidth is 0.
+
+Network 14
+The bandwidth is 16.
+
+Network 15
+The bandwidth is 14.
+
+Network 16
+The bandwidth is 0.
+
+Network 17
+The bandwidth is 0.
+
+Network 18
+The bandwidth is 4.
+
+Network 19
+The bandwidth is 11.
+
+Network 20
+The bandwidth is 17.
+
+Network 21
+The bandwidth is 0.
+
+Network 22
+The bandwidth is 0.
+
+Network 23
+The bandwidth is 10.
+
+Network 24
+The bandwidth is 0.
+
+Network 25
+The bandwidth is 0.
+
+Network 26
+The bandwidth is 60.
+
+Network 27
+The bandwidth is 25.
+
+Network 28
+The bandwidth is 18.
+
+Network 29
+The bandwidth is 1.
+
+Network 30
+The bandwidth is 14.
+
+Network 31
+The bandwidth is 7.
+
+Network 32
+The bandwidth is 0.
+
+Network 33
+The bandwidth is 10.
+
+Network 34
+The bandwidth is 0.
+
+Network 35
+The bandwidth is 1.
+
+Network 36
+The bandwidth is 29.
+
+Network 37
+The bandwidth is 0.
+
+Network 38
+The bandwidth is 0.
+
+Network 39
+The bandwidth is 3.
+
+Network 40
+The bandwidth is 16.
+
+Network 41
+The bandwidth is 0.
+
+Network 42
+The bandwidth is 8.
+
+Network 43
+The bandwidth is 25.
+
+Network 44
+The bandwidth is 13.
+
+Network 45
+The bandwidth is 11.
+
+Network 46
+The bandwidth is 0.
+
+Network 47
+The bandwidth is 21.
+
+Network 48
+The bandwidth is 19.
+
+Network 49
+The bandwidth is 0.
+
+Network 50
+The bandwidth is 0.
+
