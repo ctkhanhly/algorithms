@@ -2,6 +2,7 @@
 #include <limits.h>
 using namespace std;
 
+//AC
 #define FOR(i,n) for(int i = 0; i < (int)n; ++i)
 const int N = 75;
 const int INF = INT_MIN;
