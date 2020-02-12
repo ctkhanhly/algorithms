@@ -1,0 +1,10 @@
+/*
+        is this problem asking for a possibility that 
+    after walking to the wrong room that room still has the same 
+    probability of being walked again? w/o replacement, kinda weird, unrealistic
+    and wasting time?
+
+    Any way, imagine you enter this situation K times, for each time, walk to P rooms
+    => walk to room i1 p1 times and takes x1 hours etc
+    total time/(K*P) * proportion of time you walk to where you need to be
+        */ 

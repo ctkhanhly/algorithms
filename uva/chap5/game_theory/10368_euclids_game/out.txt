@@ -1,0 +1,5 @@
+Stan wins
+15 24 0
+9 15 1
+6 9 0
+Ollie wins
